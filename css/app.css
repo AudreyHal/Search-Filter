@@ -1,0 +1,42 @@
+#aa{border-top:1px solid #d1cdcd;}
+
+#input{
+   
+    height: 25px;
+    background-color: #f8eeee;
+    border-radius: 0.4rem;
+    width:100%;
+
+}
+#list{padding-left:2px;
+    border-left:1px solid #d1cdcd;
+    border-right :1px solid #d1cdcd; }
+
+
+ #list a{
+     color: #000000;
+    text-decoration:none; 
+
+  
+}
+
+ .list-head{
+    background-color: #f5efef;
+    font-weight: bold;
+    padding-left: 0px;
+ }
+
+ 
+#list li{
+    border-bottom:1px solid #d1cdcd;
+     list-style:none; 
+    padding: 5px;}
+    
+ .wrap{
+    
+   display: block;
+   font-family:  ; 
+   margin-left: 400px;
+   margin-right: 400px;
+  
+ }
